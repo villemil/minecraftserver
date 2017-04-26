@@ -7,7 +7,8 @@ http://adfoc.us/serve/sitelinks/?id=271228&url=http://files.minecraftforge.net/m
 Start minecraft with Forge installed and Forge profile selected
 
 1. Download the mod folder
-2. Open your .minecraft folder. (WIN+R, write %appdata% and press enter)
-3. If you already have mods folder inside .minecraft, delete it.
-4. Place the mods folder you downloaded to .minecraft folder.
-5. Select Forge from minecraft launcher and play!
+2. Extract the ZIP you just downloaded.
+3. Open your .minecraft folder. (WIN+R, write %appdata% and press enter)
+4. If you already have mods folder inside .minecraft, delete it.
+5. Place the mods folder you downloaded to .minecraft folder.
+6. Select Forge from minecraft launcher and play!
